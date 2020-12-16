@@ -1,0 +1,234 @@
+body {
+    background-color: rgb(1, 15, 46);
+    font-family: arial, sans-serif;
+    
+    
+}
+header {
+    width: 100%;
+    height: 400px;
+   background-image: url(imagini/coperta.jpg);
+   
+}
+
+img {
+    margin-top: 50px;
+    margin-left: 30px;
+    
+    
+}
+nav {
+    position: relative;
+    margin-top: -16px;
+    
+    
+}
+nav ul{
+    background-color: rgb(6, 55, 146) ;
+    list-style-type: none;
+    position: relative;
+    
+    
+}
+ul li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    
+    
+    
+}
+li {
+    display: inline-block;
+    padding: 20px 50px;
+    background-color: rgb(3, 39, 139);
+    position: relative;
+    right:39px
+}
+.inf {
+    position: relative;
+    left: 1110px;
+}
+.pasionati {
+    position: relative;
+    left: 170px;
+}
+.body {
+    color: white;
+    width: 960px;
+    height: 2100px;
+    margin: auto ;
+    background-image: url(imagini/copertauefa.jpg);
+    margin-bottom: 50px;
+    
+    
+}
+h1 {
+    position: relative;
+    left: 150px;
+    display: block;
+    width: 600px;
+    padding-top: 10px;
+    font-size: 50px ;
+    
+    background-color:  rgb(213, 228, 0);
+    text-align: center;
+    border-radius: 5px;
+    color: black;
+    margin-bottom: 70px;
+}
+h2 {
+    
+    font-size: 30px;
+    margin: 100px 0 0 0;
+}
+
+.body1 {
+    float: left;
+    padding: 0px 40px 0 50px;
+}
+#istoria {
+    width: 300px;
+    background-color: rgba(243, 243, 243, 0.082);
+    padding: 10px;
+}
+.i {
+    position: relative;
+    right: 40px;
+}
+.istoria{
+    float: left;
+}
+.ist a {
+    padding: 6px 10px 6px 10px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 0);
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+img {
+    width: 250px;
+    margin-top: 150px;
+    margin-bottom: 30px;
+    border: 5px solid rgb(251, 255, 0);
+    
+}
+
+.body2 {
+    float: right;
+    position: relative;
+    right: 20px;
+    
+    
+} 
+
+.imgmodern {
+   float: right;
+   margin-right: 30px;
+}
+.pmodern {
+    margin-right: 30px;
+    float: right;
+    width: 330px;
+}
+#pmodern {
+    background-color: rgba(243, 243, 243, 0.082);
+    padding: 10px;
+}
+.legend {
+    float: left;
+    width: 330px;
+    margin-left: 45px;
+   
+}
+#legend {
+    background-color: rgba(243, 243, 243, 0.082);
+    padding: 10px;
+}
+.body3 {
+    width: 960px;
+    float: left;
+}
+.apasa {
+    font-size: 30px;
+    color: rgb(200, 255, 0);
+}
+
+.body4 {
+    float: right;
+}
+
+.bdor {
+    width: 330px;
+    float: right;
+    margin-right: 30px;
+}
+.balon {
+    margin-right: 35px;
+    float: right;
+}
+#ball {
+    background-color: rgba(243, 243, 243, 0.082);
+    padding: 10px;
+}
+
+.body5 {
+    width: 1440px;
+    float: left;
+}
+.antrenori {
+    width: 330px;
+    float: left;
+    margin-left: 60px;
+}
+#an {
+    background-color: rgba(243, 243, 243, 0.082);
+    padding: 10px;
+}
+.imgant {
+    float: left;
+}
+
+footer {
+    display: block;
+    background-color: rgb(6, 55, 146);
+    border-top: 1px solid black;
+    clear: left;
+    
+    padding: 70px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+    
+    
+}
+.copy {
+    text-align: left;
+    margin-top: -50px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+   
+}
+#pariaza {
+    padding: 20px;
+    background-color: rgba(255, 255, 0, 0.726);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20px;
+    width: 70%;
+    margin-left: 240px;
+}
+#gsp {
+    margin-top: 90px;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
